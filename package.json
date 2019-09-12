@@ -1,0 +1,22 @@
+{
+  "name": "react-based-google-books-search",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Baldy318/React-Based-Google-Books-Search.git"
+  },
+  "author": "Percy Addo-Yobo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Baldy318/React-Based-Google-Books-Search/issues"
+  },
+  "homepage": "https://github.com/Baldy318/React-Based-Google-Books-Search#readme",
+  "dependencies": {},
+  "devDependencies": {}
+}
