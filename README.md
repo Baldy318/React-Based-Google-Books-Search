@@ -1,1 +1,1 @@
-# React-Based-Google-Books-Search
+# Google Books Search (React)
